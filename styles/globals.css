@@ -1,0 +1,15 @@
+/* app/styles/globals.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+#root {
+  direction: ltr;
+}
+
+html[lang='ar'] #root {
+  direction: rtl;
+}

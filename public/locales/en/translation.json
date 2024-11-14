@@ -1,0 +1,104 @@
+{
+  "welcome": "Welcome to Streaming Hub",
+  "products": "Products",
+  "orderNow": "Order Now",
+  "language": "Language",
+  "productList": [
+    {
+      "name": "Netflix",
+      "description": "Netflix offers a vast library of TV shows, movies, documentaries, and original content. Plans start at $6.99/month in the U.S., with regional price variations."
+    },
+    {
+      "name": "Shahid",
+      "description": "Shahid is a leading Arabic streaming platform for Arabic, Turkish, and Bollywood content, including live sports. Subscription details are on their website."
+    },
+    {
+      "name": "Watch It",
+      "description": "Watch It is an Egyptian streaming service featuring Arabic TV series, movies, and exclusive shows. Pricing details are available on their site."
+    },
+    {
+      "name": "TOD",
+      "description": "TOD provides access to all beIN SPORTS channels, along with movies and series. Check their site for subscription plans."
+    },
+    {
+      "name": "Joy TV",
+      "description": "Joy TV offers a range of entertainment options, including TV channels, movies, and series. Pricing is available on their platform."
+    },
+    {
+      "name": "Amazon Prime Video",
+      "description": "Amazon Prime Video has a vast array of movies, TV shows, and original content. In the U.S., it costs $8.99/month; local pricing may vary."
+    },
+    {
+      "name": "Spotify",
+      "description": "Spotify is a music streaming service with an extensive library of songs and podcasts. Premium starts at $9.99/month in the U.S., with local price variations."
+    },
+    {
+      "name": "Anghami",
+      "description": "Anghami is a music streaming platform with a focus on Arabic and international music. Subscription details are on their site."
+    },
+    {
+      "name": "Disney+",
+      "description": "Disney+ offers Disney, Pixar, Marvel, Star Wars, and National Geographic content. Plans start at $10.99/month in the U.S.; regional prices vary."
+    },
+    {
+      "name": "Crunchyroll",
+      "description": "Crunchyroll specializes in anime, offering an extensive library. Premium plans start at $7.99/month."
+    },
+    {
+      "name": "StarzPlay",
+      "description": "StarzPlay features movies, series, and exclusive content. Pricing is available on their platform."
+    },
+    {
+      "name": "OSN+",
+      "description": "OSN+ offers various movies, series, and exclusive shows. Subscription info can be found on their website."
+    },
+    {
+      "name": "VIU",
+      "description": "VIU provides Asian dramas, movies, and variety shows. Subscription details are on their site."
+    },
+    {
+      "name": "Canva Pro",
+      "description": "Canva Pro is a graphic design platform offering advanced features like Magic Resize. It costs $12.99/month."
+    },
+    {
+      "name": "Adobe Creative Cloud",
+      "description": "Adobe Creative Cloud includes Photoshop, Illustrator, and more. Individual app subscriptions start at $20.99/month; all apps at $54.99/month."
+    },
+    {
+      "name": "Microsoft Office 2021",
+      "description": "Microsoft Office 2021 provides essential productivity tools like Word and Excel with a one-time purchase of $39.97."
+    },
+    {
+      "name": "YouTube Premium",
+      "description": "YouTube Premium offers ad-free viewing, background play, and YouTube Music access. Costs $11.99/month."
+    },
+    {
+      "name": "Apple TV+",
+      "description": "Apple TV+ offers original content from Apple. Costs $9.99/month."
+    },
+    {
+      "name": "Apple Music",
+      "description": "Apple Music offers a vast music library. Individual plans cost $10.99/month."
+    },
+    {
+      "name": "Apple iCloud+",
+      "description": "Apple iCloud+ provides cloud storage and additional features, starting at $0.99/month."
+    },
+    {
+      "name": "Google One",
+      "description": "Google One is Google’s cloud storage service. Plans start at $1.99/month for 100GB."
+    },
+    {
+      "name": "Google Gemini+",
+      "description": "Google Gemini+ offers 2TB of storage with AI features. Pricing details are on Google’s official site."
+    },
+    {
+      "name": "Envato Elements",
+      "description": "Envato Elements provides a vast library of digital assets. Costs $16.50/month if billed annually."
+    },
+    {
+      "name": "Duolingo Super",
+      "description": "Duolingo Super is an ad-free enhanced version for language learning, costing $6.99/month."
+    }
+  ]
+}
